@@ -2,7 +2,7 @@ Heroic Games Launcher 2.22.3, unofficial ARM64 (aarch64) Linux build
 =====================================================================
 
 This is an unofficial build, made by the arm64-linux-apps project
-(https://github.com/steamos-arm-port/arm64-linux-apps). It is not made or
+(https://github.com/hashtagbasit/arm64-linux-apps). It is not made or
 supported by the Heroic team. Please report problems with this build there,
 not to Heroic.
 

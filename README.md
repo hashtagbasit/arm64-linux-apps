@@ -7,18 +7,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/steamos-arm-port/arm64-linux-apps/releases"><img alt="Releases" src="https://img.shields.io/github/v/release/steamos-arm-port/arm64-linux-apps?style=flat&color=18181a"></a>
+  <a href="https://github.com/hashtagbasit/arm64-linux-apps/releases"><img alt="Releases" src="https://img.shields.io/github/v/release/hashtagbasit/arm64-linux-apps?style=flat&color=18181a"></a>
   <a href="LICENSE"><img alt="GPL-3.0 license" src="https://img.shields.io/badge/license-GPL--3.0-18181a?style=flat"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/steamos-arm-port/arm64-linux-apps/releases"><strong>Downloads</strong></a>
+  <a href="https://github.com/hashtagbasit/arm64-linux-apps/releases"><strong>Downloads</strong></a>
   ·
   <a href="#apps">Apps</a>
   ·
   <a href="#building">Building</a>
   ·
-  <a href="https://github.com/steamos-arm-port/SteamOS-ARM-Port">SteamOS ARM Port</a>
+  <a href="https://github.com/hashtagbasit/SteamOS-ARM-Port">SteamOS ARM Port</a>
 </p>
 
 > [!WARNING]
@@ -32,7 +32,7 @@ arm64. This repo builds them from their own release source for aarch64 Linux,
 with as few changes as possible. Every change is a patch in the app's folder,
 and every release carries the source it was built from.
 
-The builds are used by [SteamOS ARM Port](https://github.com/steamos-arm-port/SteamOS-ARM-Port),
+The builds are used by [SteamOS ARM Port](https://github.com/hashtagbasit/SteamOS-ARM-Port),
 where Loadout installs them, but they work on any arm64 Linux that has what
 each app needs.
 
@@ -44,7 +44,7 @@ each app needs.
 
 ## Installing
 
-Download the `.tar.xz` from [Releases](https://github.com/steamos-arm-port/arm64-linux-apps/releases),
+Download the `.tar.xz` from [Releases](https://github.com/hashtagbasit/arm64-linux-apps/releases),
 check it against its `.sha256`, unpack it anywhere and run the app from the
 folder:
 
