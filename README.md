@@ -18,7 +18,7 @@
   ·
   <a href="#building">Building</a>
   ·
-  <a href="https://github.com/hashtagbasit/SteamOS-ARM-Handhelds">SteamOS ARM</a>
+  <a href="https://github.com/hashtagbasit/SteamOS-ARM-Port">SteamOS ARM Port</a>
 </p>
 
 > [!WARNING]
@@ -32,7 +32,7 @@ arm64. This repo builds them from their own release source for aarch64 Linux,
 with as few changes as possible. Every change is a patch in the app's folder,
 and every release carries the source it was built from.
 
-The builds are used by [SteamOS ARM](https://github.com/hashtagbasit/SteamOS-ARM-Handhelds),
+The builds are used by [SteamOS ARM Port](https://github.com/hashtagbasit/SteamOS-ARM-Port),
 where Loadout installs them, but they work on any arm64 Linux that has what
 each app needs.
 
